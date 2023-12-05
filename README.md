@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 <!---
 MurotxonovAnvarxon/MurotxonovAnvarxon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
