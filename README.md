@@ -32,7 +32,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github" />
-    <img src="https://skillicons.dev/icons?i=firebase,kotlin,java,androidstudio,gradle,idea,linux,postman,stackoverflow" /><br>
+    <img src="https://skillicons.dev/icons?i=firebase,kotlin,java,androidstudio,flutter,gradle,idea,linux,postman,stackoverflow" /><br>
 </div>
 
 <br/>
