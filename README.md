@@ -13,11 +13,11 @@
 <div align="center">
  
  
- 🌱 I am currently learning **Flutter and Android**
+ 🌱 I am currently working as a Flutter developer**
 
 
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ I'm learning NixOS and writing configuration in Nix language :)**
 
  </div>
  
