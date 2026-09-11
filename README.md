@@ -16,9 +16,6 @@
  🌱 I am currently working as a Android developer**
 
 
-
-⚡ I'm learning NixOS and writing configuration in Nix language :)**
-
  </div>
  
 <div align="center"> 
