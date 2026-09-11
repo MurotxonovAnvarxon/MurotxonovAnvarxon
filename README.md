@@ -13,7 +13,7 @@
 <div align="center">
  
  
- 🌱 I am currently working as a Flutter developer**
+ 🌱 I am currently working as a Android developer**
 
 
 
